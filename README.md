@@ -6,9 +6,7 @@ This project compares performance between CPU and GPU with CUDA operations. Two 
 
 - Matrix multiplication (CPU & GPU implementations)
 - 2D Convolution (CPU & GPU implementations)
-- Performance benchmarking
-- Visualization of results
-- Error analysis
+- Performance and error analysis
 
 ## Requirements
 - NVIDIA CUDA should be installed
